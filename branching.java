@@ -42,6 +42,10 @@ public class branching {
             case 'D':
             System.out.println("FAIL");
             break;
+
+            default:
+            System.out.println("INVALID");
+            break;
         }
 
         //NESTED BRANCHING IS A CONDITION IN CONDITION FOREXAMPLE:
