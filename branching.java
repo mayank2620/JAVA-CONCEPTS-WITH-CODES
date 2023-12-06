@@ -24,7 +24,7 @@ public class branching {
             System.out.println("FALSE");
         }
         
-        //3. SWITCH
+        //4. SWITCH
         int grade='A';
         switch(grade){
             case 'A':
