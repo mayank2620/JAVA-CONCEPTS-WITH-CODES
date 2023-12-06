@@ -23,6 +23,26 @@ public class branching {
         }else{
             System.out.println("FALSE");
         }
+        
+        //3. SWITCH
+        int grade='A';
+        switch(grade){
+            case 'A':
+            System.out.println("EXCELLENT");
+            break;
+
+            case 'B':
+            System.out.println(" GOOD");
+            break;
+
+            case 'C':
+            System.out.println("AVG");
+            break;
+
+            case 'D':
+            System.out.println("FAIL");
+            break;
+        }
 
         //NESTED BRANCHING IS A CONDITION IN CONDITION FOREXAMPLE:
         int num=12;
